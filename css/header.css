@@ -1,7 +1,16 @@
 .header {
   background-color: #f4f4fd;
 }
+
+.header .container {
+  display: flex;
+  padding: 0 15px;
+
+  max-width: 1158px;
+}
+
 .header-logo {
+  padding: 24px 76px 24px 15px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -10,6 +19,10 @@
   text-transform: uppercase;
 }
 .nav-list {
+  display: flex;
+
+  gap: 40px;
+  padding: 24px;
   font-weight: 500;
 }
 .nav-item {
@@ -19,8 +32,12 @@
   color: #404bbf;
 }
 .address {
+  margin-left: auto;
+  padding: 24px 0;
 }
 .address-list {
+  display: flex;
+  gap: 40px;
 }
 .address-item {
 }
