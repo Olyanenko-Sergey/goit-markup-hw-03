@@ -1,10 +1,23 @@
 .features {
+  padding: 120px 0;
 }
+
+.features .container {
+}
+
 .features-list {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding: 0 15px;
 }
 .features-items {
+  width: 264px;
+
+  border: 2px solid red;
 }
 .features-title {
+  padding-bottom: 8px;
 }
 .features-details {
   color: #434455;

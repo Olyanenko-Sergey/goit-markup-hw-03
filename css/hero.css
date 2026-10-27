@@ -2,7 +2,27 @@
   background-color: #2e2f42;
   padding: 188px 0;
 }
+
+.hero .container {
+  padding: 188px 141px;
+
+  padding: 0 331px 48px 331px;
+  width: 1158px;
+  height: 224px;
+  max-width: 1158px;
+}
+.hero-title {
+  width: 496px;
+  height: 120px;
+
+  text-align: center;
+}
+
 .hero-button {
+  display: block;
+  width: 169px;
+  height: 56px;
+  margin: 31px auto 0;
   border: none;
   cursor: pointer;
   background: #4d5ae5;
@@ -13,7 +33,4 @@
 .hero-button:hover,
 .hero-button:focus {
   background: #404bbf;
-}
-.hero-title {
-  text-align: center;
 }
