@@ -33,6 +33,10 @@ body {
   outline-offset: -2px;
 }
 
+.container h2 {
+  margin-bottom: 72px;
+}
+
 section {
   padding: 120px 0;
 }

@@ -12,5 +12,10 @@
 }
 
 .footer-text {
+  width: 264px;
+  height: 72px;
   color: #f4f4fd;
+}
+.footer .container {
+  padding: 100px 15px 100px 15px;
 }
