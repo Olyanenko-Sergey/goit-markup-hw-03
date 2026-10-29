@@ -13,8 +13,9 @@
 .features-items {
   width: 264px;
 }
+
 .features-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .features-details {
   color: #434455;
