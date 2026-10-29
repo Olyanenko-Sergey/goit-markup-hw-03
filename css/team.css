@@ -17,20 +17,20 @@
 }
 
 .team-avatar {
-  padding-bottom: 24px;
 }
 
 .team-content {
+  padding-top: 24px;
+  padding: 32px 16px;
 }
 
 .team-name {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
 }
 .team-description {
-  padding-bottom: 32px;
   text-align: center;
   color: #434455;
 }
