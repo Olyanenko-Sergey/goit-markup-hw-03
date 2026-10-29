@@ -1,5 +1,6 @@
 .team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .team-title {
@@ -12,15 +13,20 @@
   justify-content: center;
 }
 .team-item {
+  width: calc((100% - 72px) / 4);
   background-color: #fff;
   border-radius: 0 0 4px 4px;
+}
+
+.team-items img {
+  display: block;
+  width: 100%;
 }
 
 .team-avatar {
 }
 
 .team-content {
-  padding-top: 24px;
   padding: 32px 16px;
 }
 
