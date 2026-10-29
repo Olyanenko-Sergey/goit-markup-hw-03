@@ -1,5 +1,7 @@
 .portfolio {
+  padding: 120px 0;
 }
+
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
