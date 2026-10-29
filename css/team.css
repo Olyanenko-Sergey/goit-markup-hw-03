@@ -1,6 +1,11 @@
 .team {
   background-color: #f4f4fd;
 }
+
+.team-title {
+  margin-bottom: 72px;
+}
+
 .team-list {
   display: flex;
   gap: 24px;
@@ -8,11 +13,16 @@
 }
 .team-item {
   background-color: #fff;
+  border-radius: 0 0 4px 4px;
 }
 
 .team-avatar {
   padding-bottom: 24px;
 }
+
+.team-content {
+}
+
 .team-name {
   padding-bottom: 8px;
   font-weight: 500;

@@ -1,5 +1,6 @@
 .header {
   background-color: #f4f4fd;
+  border-bottom: 1px solid;
 }
 
 .header .container {
@@ -20,13 +21,17 @@
 }
 .nav-list {
   display: flex;
-
   gap: 40px;
-  padding: 24px;
   font-weight: 500;
 }
 .nav-item {
 }
+
+.nav-menu {
+  padding: 24px 0;
+  display: block;
+}
+
 .nav-menu:hover,
 .nav-menu:focus {
   color: #404bbf;

@@ -4,25 +4,19 @@
 }
 
 .hero .container {
-  padding: 188px 141px;
-
-  padding: 0 331px 48px 331px;
-  width: 1158px;
-  height: 224px;
   max-width: 1158px;
 }
 .hero-title {
   width: 496px;
-  height: 120px;
-
+  margin: 0 auto;
   text-align: center;
 }
 
 .hero-button {
   display: block;
-  width: 169px;
-  height: 56px;
-  margin: 31px auto 0;
+  padding: 16px 32px;
+  margin: 48px auto;
+
   border: none;
   cursor: pointer;
   background: #4d5ae5;
